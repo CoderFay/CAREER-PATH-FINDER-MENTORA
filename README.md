@@ -2,8 +2,9 @@
 Mentora App is a comprehensive platform designed to help college students find their career paths by connecting them with professors in their respective fields and areas of interest. The app allows students to schedule meetings online or chat with professors through a smooth and simple UI.
 
 Table of Contents
-[Features](#Features)
-[App Prototype](#App-Prototype)
+
+Features(#Features)
+App Prototype(#App-Prototype)
 
 
 ## Features
@@ -15,7 +16,7 @@ Career Guidance: Receive guidance and advice on career paths directly from exper
 
 ## App Prototype
 
-Watch the video Prototype [here](Mentora-App-Video/Mentora-App.mp4)
+Watch the video Prototype [here](Mentora App Video/Mentora App.mp4)
 
 ## Contact
 
