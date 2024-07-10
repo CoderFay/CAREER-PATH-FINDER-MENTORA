@@ -3,8 +3,8 @@ Mentora App is a comprehensive platform designed to help college students find t
 
 Table of Contents
 
-Features(#Features)
-App Prototype(#App-Prototype)
+- [Features](#Features)
+- [App Prototype](#App-Prototype)
 
 
 ## Features
