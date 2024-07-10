@@ -15,7 +15,7 @@ Career Guidance: Receive guidance and advice on career paths directly from exper
 
 ## App Prototype
 
-
+Watch the video Prototype [here](Mentora-App-Video/Mentora-App.mp4)
 
 ## Contact
 
