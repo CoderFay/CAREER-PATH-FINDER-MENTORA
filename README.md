@@ -16,7 +16,7 @@ Career Guidance: Receive guidance and advice on career paths directly from exper
 
 ## App Prototype
 
-Watch the video Prototype [here](#[Mentora-App-Video/Mentora-App.mp4](https://github.com/CoderFay/CAREER-PATH-FINDER-MENTORA/blob/45b371a2c7505e8256efcf2913b9602d604dd727/Mentora%20App%20Video/Mentora%20App.mp4))
+Watch the video Prototype [here](https://github.com/CoderFay/CAREER-PATH-FINDER-MENTORA/blob/45b371a2c7505e8256efcf2913b9602d604dd727/Mentora%20App%20Video/Mentora%20App.mp4)
 
 ## Contact
 
